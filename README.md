@@ -1,1 +1,1 @@
-# Responsive-email-coding---Akamai
+# Responsive-email-coding - Akamai
